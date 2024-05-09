@@ -1,0 +1,7 @@
+F:\Visual Studio 2017\word guessing game\word guessing game\bin\Debug\word guessing game.exe.config
+F:\Visual Studio 2017\word guessing game\word guessing game\bin\Debug\word guessing game.exe
+F:\Visual Studio 2017\word guessing game\word guessing game\bin\Debug\word guessing game.pdb
+F:\Visual Studio 2017\word guessing game\word guessing game\obj\Debug\word guessing game.csprojAssemblyReference.cache
+F:\Visual Studio 2017\word guessing game\word guessing game\obj\Debug\word guessing game.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2017\word guessing game\word guessing game\obj\Debug\word guessing game.exe
+F:\Visual Studio 2017\word guessing game\word guessing game\obj\Debug\word guessing game.pdb
